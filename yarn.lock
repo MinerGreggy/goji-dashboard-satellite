@@ -491,10 +491,10 @@ globby@^11.0.3:
     merge2 "^1.3.0"
     slash "^3.0.0"
 
-goji-api@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/goji-api/-/goji-api-2.2.2.tgz#bd8efe5313c8395167033473a00bbd9c34c667fb"
-  integrity sha512-NZAsn8Pbwu25pLLdr1lXBcieZ05sgHFlwZLT0kth4el+nxW7Sxl49wlE2LtZvNHgOj9jTSWkp+AMQvS5kZmYAg==
+goji-api@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/goji-api/-/goji-api-2.2.3.tgz#5fb59b87aa5b865638f8578ae79acc2d5711e835"
+  integrity sha512-oa6Ju0QpsMhbr7jUi+u3PzwmHzcI6kGrRyXI01XqqqKUiDXgmROiM+a0L6Mt8sMQseATf4wG+xrXicjDEjyn0w==
   dependencies:
     json-bigint "^1.0.0"
     ws "^7.5.0"
