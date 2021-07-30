@@ -1,4 +1,4 @@
-goji-Dashboard-Satellite
+Goji-Dashboard-Satellite
 ======
 
 [![Software License](https://img.shields.io/badge/license-GPL--3.0-brightgreen.svg?style=flat-square)](LICENSE)
